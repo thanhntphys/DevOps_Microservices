@@ -5,7 +5,7 @@
 
 # Step 1:
 # Create dockerpath
-dockerpath=thanhntphys/udacity-cdo-prj4
+dockerpath=thanhntphys/uda-microservice-project4
 
 # Step 2:  
 # Authenticate & tag
