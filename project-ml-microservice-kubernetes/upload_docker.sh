@@ -5,7 +5,7 @@
 
 # Step 1:
 # Create dockerpath
-dockerpath=thanhnt97/udacity-cdo-prj4
+dockerpath=thanhntphys/udacity-cdo-prj4
 
 # Step 2:  
 # Authenticate & tag
